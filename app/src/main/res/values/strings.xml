@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JoshTalks</string>
+    <string name="flickr_key">ada73417582985add25e9bd7bdef4d94</string>
+    <string name="flickr_secret_key">fa3e6542f3da5193</string>
+</resources>
